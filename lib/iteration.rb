@@ -54,10 +54,13 @@ def total_even_pairs(src)
     else
       count += 1
     end
+    
 
 
 
   end
+  sum
+  
 
 
 end
