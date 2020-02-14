@@ -21,7 +21,7 @@ def find_greater_pair(src)
   # that are in the inner Arrays
   array=[]
   count = 0
-  while count < src. do
+  while count < src.length do
 
     if src[0] < src[1]
       array.push(src[1])
