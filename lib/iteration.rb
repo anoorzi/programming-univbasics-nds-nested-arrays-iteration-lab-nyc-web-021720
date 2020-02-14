@@ -25,9 +25,11 @@ def find_greater_pair(src)
 
     if src[0] < src[1]
       array.push(src[1])
+      count += 1
 
     else
       array.push(src[0])
+      count += 1
     end
 
   end
