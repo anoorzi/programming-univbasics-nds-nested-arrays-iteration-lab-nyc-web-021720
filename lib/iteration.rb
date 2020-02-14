@@ -29,7 +29,7 @@ def find_greater_pair(src)
     else
       array.push(src[0])
     end
-    
+
   end
   array
 end
